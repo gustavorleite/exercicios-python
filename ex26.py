@@ -1,0 +1,6 @@
+p = input(str('Digite um nº: '))
+milhar = p.split()
+centena = p.split()
+dezena = p.split()
+unidade = p.split()
+print(f'milhar: {milhar}')

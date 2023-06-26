@@ -1,2 +1,3 @@
-# pratice-python
-python basic to intermediate exercises
+# exercicios-python
+
+
